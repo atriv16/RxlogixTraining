@@ -1,2 +1,3 @@
 Adding change from git to see the changes in local
 This is file A.
+adding changes at end of the file
