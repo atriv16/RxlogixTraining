@@ -1,1 +1,1 @@
-This is file B
+#Adding changes to this file at same line for conflicts# This is file B. 
